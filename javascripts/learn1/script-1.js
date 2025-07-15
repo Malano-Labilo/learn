@@ -204,3 +204,4 @@
 // console.log(garnacho.attributes);
 
 // * Object.create()
+// Dilanjutkan di file script-2.js
