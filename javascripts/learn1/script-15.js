@@ -1,4 +1,4 @@
-//Rest Parameter /Spread Operator
+//Spread Operator
 
 const person = ["Malano", "Labilo", "Khoelho"];
 
